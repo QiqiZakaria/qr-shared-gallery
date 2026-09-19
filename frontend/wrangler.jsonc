@@ -19,12 +19,5 @@
   },
   "cache": {
     "enabled": false
-  },
-  "services": [
-    {
-      "binding": "RESPONSE_STORE",
-      "service": "qr-shared-gallery-frontend-response-store",
-      "entrypoint": "ResponseStoreService"
-    }
-  ]
+  }
 }
