@@ -1,3 +1,4 @@
 /dist/
 .vinext/
 .wrangler/
+.env.production
